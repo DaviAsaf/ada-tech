@@ -1,3 +1,4 @@
 # ada-tech
 Curso Back-End ADA Tech
-## Objetivos
+## Objetivos Primários
+* Estudar Git
